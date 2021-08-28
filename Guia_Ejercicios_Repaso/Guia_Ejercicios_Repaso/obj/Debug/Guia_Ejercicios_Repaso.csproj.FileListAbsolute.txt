@@ -1,0 +1,7 @@
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\Guia_Ejercicios_Repaso\Guia_Ejercicios_Repaso\bin\Debug\Guia_Ejercicios_Repaso.exe.config
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\Guia_Ejercicios_Repaso\Guia_Ejercicios_Repaso\bin\Debug\Guia_Ejercicios_Repaso.exe
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\Guia_Ejercicios_Repaso\Guia_Ejercicios_Repaso\bin\Debug\Guia_Ejercicios_Repaso.pdb
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\Guia_Ejercicios_Repaso\Guia_Ejercicios_Repaso\obj\Debug\Guia_Ejercicios_Repaso.csproj.AssemblyReference.cache
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\Guia_Ejercicios_Repaso\Guia_Ejercicios_Repaso\obj\Debug\Guia_Ejercicios_Repaso.csproj.CoreCompileInputs.cache
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\Guia_Ejercicios_Repaso\Guia_Ejercicios_Repaso\obj\Debug\Guia_Ejercicios_Repaso.exe
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\Guia_Ejercicios_Repaso\Guia_Ejercicios_Repaso\obj\Debug\Guia_Ejercicios_Repaso.pdb
