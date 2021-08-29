@@ -1,0 +1,10 @@
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\CAI_Ejercicios_Repaso.Calculadora.Console\bin\Debug\CAI_Ejercicios_Repaso.Calculadora.Console.exe.config
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\CAI_Ejercicios_Repaso.Calculadora.Console\bin\Debug\CAI_Ejercicios_Repaso.Calculadora.Console.exe
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\CAI_Ejercicios_Repaso.Calculadora.Console\bin\Debug\CAI_Ejercicios_Repaso.Calculadora.Console.pdb
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\CAI_Ejercicios_Repaso.Calculadora.Console\bin\Debug\Calculadora.BiblioClases.dll
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\CAI_Ejercicios_Repaso.Calculadora.Console\bin\Debug\Calculadora.BiblioClases.pdb
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\CAI_Ejercicios_Repaso.Calculadora.Console\obj\Debug\CAI_Ejercicios_Repaso.Calculadora.Consola.csproj.AssemblyReference.cache
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\CAI_Ejercicios_Repaso.Calculadora.Console\obj\Debug\CAI_Ejercicios_Repaso.Calculadora.Consola.csproj.CoreCompileInputs.cache
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\CAI_Ejercicios_Repaso.Calculadora.Console\obj\Debug\CAI_Ejercicios_Repaso.Calculadora.Consola.csproj.CopyComplete
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\CAI_Ejercicios_Repaso.Calculadora.Console\obj\Debug\CAI_Ejercicios_Repaso.Calculadora.Console.exe
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\CAI_Ejercicios_Repaso.Calculadora.Console\obj\Debug\CAI_Ejercicios_Repaso.Calculadora.Console.pdb
