@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAI_Ejercicios_Repaso.Calculadora.Consola", "CAI_Ejercicios_Repaso.Calculadora.Console\CAI_Ejercicios_Repaso.Calculadora.Consola.csproj", "{DD7F21D1-78BC-4CD2-BC5B-4A85A6597308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.BiblioClases", "Calculadora.BiblioClases\Calculadora.BiblioClases.csproj", "{60B07DD1-2E49-4F66-93EE-9D0574756204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7F21D1-78BC-4CD2-BC5B-4A85A6597308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7F21D1-78BC-4CD2-BC5B-4A85A6597308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7F21D1-78BC-4CD2-BC5B-4A85A6597308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7F21D1-78BC-4CD2-BC5B-4A85A6597308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B07DD1-2E49-4F66-93EE-9D0574756204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B07DD1-2E49-4F66-93EE-9D0574756204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B07DD1-2E49-4F66-93EE-9D0574756204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B07DD1-2E49-4F66-93EE-9D0574756204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F722860-857A-456A-A7F5-3DE3E40B984A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\Calculadora.BiblioClases\bin\Debug\Calculadora.BiblioClases.dll
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\Calculadora.BiblioClases\bin\Debug\Calculadora.BiblioClases.pdb
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\Calculadora.BiblioClases\obj\Debug\Calculadora.BiblioClases.csproj.AssemblyReference.cache
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\Calculadora.BiblioClases\obj\Debug\Calculadora.BiblioClases.csproj.CoreCompileInputs.cache
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\Calculadora.BiblioClases\obj\Debug\Calculadora.BiblioClases.dll
+C:\Users\orian\Documents\GitHub\CAI_Ejercicios_Repaso\CAI_Ejercicios_Repaso.Calculadora\Calculadora.BiblioClases\obj\Debug\Calculadora.BiblioClases.pdb
